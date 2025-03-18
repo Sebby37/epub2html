@@ -1,0 +1,21 @@
+.epub-container {
+    width: 90%;
+    margin: auto;
+    font-size: large;
+}
+
+body {
+    background-color: #F0F0F0;
+    /*
+      Good reading colors:
+        Nice:     #F0F0F0  (from u/earth_nice)
+        Seashell: #fff5ee
+        Peach:    #edd1b0
+      
+      https://www.reddit.com/r/Anki/comments/fv7gtr/optimal_slide_background_colors_for_readability/
+    */
+}
+
+p {
+    padding-bottom: 0px;
+}
